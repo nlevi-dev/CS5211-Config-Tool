@@ -1,0 +1,17 @@
+NOTICE
+======
+
+CS5211 Config Tool
+Copyright 2026 Levente Zsolt Nagy
+
+This software is a clean-room reimplementation of the functionality provided by
+the proprietary Capstone CS5211 EEPROM configuration tool. It was developed
+independently by analysing the binary EEPROM images produced by the original
+tool, without access to the original tool's source code or any non-public
+documentation.
+
+"CS5211" is a product name of Capstone Semiconductor. This project is not
+affiliated with, endorsed by, or supported by Capstone Semiconductor in any way.
+
+This software is released under the MIT No Attribution license (MIT-0).
+See the LICENSE file for the full license text.
